@@ -32,7 +32,8 @@
 //     * Rigourous Test :-)
 //     */
 //    public void testApp()
-//    {
+//    {git add src/main/java/itheima/utils/AliOssUtil.java src/test/java/itheima/Demo.java
+//git commit -m "Removed hardcoded credentials"
 //        assertTrue( true );
 //    }
 //}
